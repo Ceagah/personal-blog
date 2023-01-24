@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Pizzaria x",
+    "url": "https://google.com",
+    "bannerUrl": "https://via.placeholder.com/75.png"
+  },
+  {
+    "id": 2,
+    "name": "Pizzaria Y",
+    "url": "https://google.com",
+    "bannerUrl": "https://via.placeholder.com/75.png"
+  },
+  {
+    "id": 3,
+    "name": "Pizzaria Z",
+    "url": "https://google.com",
+    "bannerUrl": "https://via.placeholder.com/75.png"
+  },
+  {
+    "id": 4,
+    "name": "Pizzaria XYZ",
+    "url": "https://google.com",
+    "bannerUrl": "https://via.placeholder.com/75.png"
+  },
+  {
+    "id": 5,
+    "name": "Pizzaria ???",
+    "url": "https://google.com",
+    "bannerUrl": "https://via.placeholder.com/75.png"
+  }
+]
